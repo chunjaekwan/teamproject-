@@ -1,0 +1,14 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+section .main-banner {
+    width: 1920px;
+    height: 100vh;
+    background-image: url(../images/main-banner/main-banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: "pretendard-SemiBold", 'Noto Sans KR', sans-serif;
+}      
